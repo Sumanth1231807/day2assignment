@@ -1,3 +1,19 @@
 def myfile():
     print("hi")
 myfile()
+#slice
+a=("a","b","c")
+x=slice(1,2)
+print(a[x])
+#removing
+list=['a','b','c']
+list.remove('b')
+print(list)
+#changing
+list=[1,2,3,]
+list[0]=0
+print(list)
+#pop
+prince=['','','']
+prince.pop(1)
+print(prince)
