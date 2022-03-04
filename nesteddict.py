@@ -1,0 +1,11 @@
+prince=[{
+    "p1":{
+        "name":"sumanth",
+        "year":"2000"
+    },
+    "p2":{
+        "name":"vikram",
+        "year":"2000"
+    }
+}]
+print(prince)

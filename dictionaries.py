@@ -1,8 +1,14 @@
-dict={
+list1=[{
     "name":"sumanth",
     "birth":"hosur",
     "year":2000,
-    "year":1999#duplicates not allowed
+    "year":1999
+}]
+d{
+    "name":"sumanth",
+    "birth":"hosur",
+    "year":2000,
+    "year":1999
 }
 print(dict)
 print(dict["name"])
